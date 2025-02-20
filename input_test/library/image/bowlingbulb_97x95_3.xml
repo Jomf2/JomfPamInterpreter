@@ -1,0 +1,21 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="image/bowlingbulb_97x95_3" symbolType="graphic">
+    <timeline>
+        <DOMTimeline name="bowlingbulb_97x95_3">
+            <layers>
+                <DOMLayer>
+                    <frames>
+                        <DOMFrame index="0">
+                            <elements>
+                                <DOMBitmapInstance libraryItemName="media/bowlingbulb_97x95_3">
+                                    <matrix>
+                                        <Matrix a="0.625836" b="0.000000" c="0.000000" d="0.625836" tx="-5.900000" ty="-5.900000"/>
+                                    </matrix>
+                                </DOMBitmapInstance>
+                            </elements>
+                        </DOMFrame>
+                    </frames>
+                </DOMLayer>
+            </layers>
+        </DOMTimeline>
+    </timeline>
+</DOMSymbolItem>

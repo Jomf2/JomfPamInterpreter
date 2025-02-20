@@ -1,0 +1,40 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="sprite/empeach_arc_05" symbolType="graphic">
+    <timeline>
+        <DOMTimeline name="empeach_arc_05">
+            <layers>
+                <DOMLayer name="2">
+                    <frames>
+                        <DOMFrame index="0" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/bowlingbulb_1x1" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.903748" b="0.000000" c="0.000000" d="0.863708" tx="-0.150000" ty="34.150002"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                    </frames>
+                </DOMLayer>
+                <DOMLayer name="1">
+                    <frames>
+                        <DOMFrame index="0" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/bowlingbulb_100x93" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.443832" b="-0.918213" c="0.900330" d="0.435181" tx="-6.300000" ty="93.050003"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                    </frames>
+                </DOMLayer>
+            </layers>
+        </DOMTimeline>
+    </timeline>
+</DOMSymbolItem>

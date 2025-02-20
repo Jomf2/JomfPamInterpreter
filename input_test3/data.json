@@ -1,0 +1,611 @@
+{
+	"version": 6,
+	"resolution": 1536,
+	"position": {
+		"x": 0,
+		"y": 0
+	},
+	"image": {
+		"tutorial_gargantuar_95x106": {
+			"id": "IMAGE_ZOMBIE_TUTORIAL_GARGANTUAR_TUTORIAL_GARGANTUAR_95X106",
+			"dimension": {
+				"width": 95,
+				"height": 106
+			},
+			"additional": null
+		},
+		"tutorial_gargantuar_81x83": {
+			"id": "IMAGE_ZOMBIE_TUTORIAL_GARGANTUAR_TUTORIAL_GARGANTUAR_81X83",
+			"dimension": {
+				"width": 81,
+				"height": 83
+			},
+			"additional": null
+		},
+		"tutorial_gargantuar_60x48": {
+			"id": "IMAGE_ZOMBIE_TUTORIAL_GARGANTUAR_TUTORIAL_GARGANTUAR_60X48",
+			"dimension": {
+				"width": 60,
+				"height": 48
+			},
+			"additional": null
+		},
+		"tutorial_gargantuar_35x28": {
+			"id": "IMAGE_ZOMBIE_TUTORIAL_GARGANTUAR_TUTORIAL_GARGANTUAR_35X28",
+			"dimension": {
+				"width": 35,
+				"height": 28
+			},
+			"additional": null
+		},
+		"tutorial_gargantuar_33x36": {
+			"id": "IMAGE_ZOMBIE_TUTORIAL_GARGANTUAR_TUTORIAL_GARGANTUAR_33X36",
+			"dimension": {
+				"width": 33,
+				"height": 36
+			},
+			"additional": null
+		},
+		"tutorial_gargantuar_32x40": {
+			"id": "IMAGE_ZOMBIE_TUTORIAL_GARGANTUAR_TUTORIAL_GARGANTUAR_32X40",
+			"dimension": {
+				"width": 32,
+				"height": 40
+			},
+			"additional": null
+		},
+		"tutorial_gargantuar_38x38": {
+			"id": "IMAGE_ZOMBIE_TUTORIAL_GARGANTUAR_TUTORIAL_GARGANTUAR_38X38",
+			"dimension": {
+				"width": 38,
+				"height": 38
+			},
+			"additional": null
+		},
+		"tutorial_gargantuar_36x44": {
+			"id": "IMAGE_ZOMBIE_TUTORIAL_GARGANTUAR_TUTORIAL_GARGANTUAR_36X44",
+			"dimension": {
+				"width": 36,
+				"height": 44
+			},
+			"additional": null
+		},
+		"tutorial_gargantuar_84x60": {
+			"id": "IMAGE_ZOMBIE_TUTORIAL_GARGANTUAR_TUTORIAL_GARGANTUAR_84X60",
+			"dimension": {
+				"width": 84,
+				"height": 60
+			},
+			"additional": null
+		},
+		"tutorial_gargantuar_87x62": {
+			"id": "IMAGE_ZOMBIE_TUTORIAL_GARGANTUAR_TUTORIAL_GARGANTUAR_87X62",
+			"dimension": {
+				"width": 87,
+				"height": 62
+			},
+			"additional": null
+		},
+		"tutorial_gargantuar_105x78": {
+			"id": "IMAGE_ZOMBIE_TUTORIAL_GARGANTUAR_TUTORIAL_GARGANTUAR_105X78",
+			"dimension": {
+				"width": 105,
+				"height": 78
+			},
+			"additional": null
+		},
+		"tutorial_gargantuar_74x65": {
+			"id": "IMAGE_ZOMBIE_TUTORIAL_GARGANTUAR_TUTORIAL_GARGANTUAR_74X65",
+			"dimension": {
+				"width": 74,
+				"height": 65
+			},
+			"additional": null
+		},
+		"tutorial_gargantuar_163x67": {
+			"id": "IMAGE_ZOMBIE_TUTORIAL_GARGANTUAR_TUTORIAL_GARGANTUAR_163X67",
+			"dimension": {
+				"width": 163,
+				"height": 67
+			},
+			"additional": null
+		},
+		"tutorial_gargantuar_84x60_2": {
+			"id": "IMAGE_ZOMBIE_TUTORIAL_GARGANTUAR_TUTORIAL_GARGANTUAR_84X60_2",
+			"dimension": {
+				"width": 84,
+				"height": 60
+			},
+			"additional": null
+		},
+		"tutorial_gargantuar_87x65": {
+			"id": "IMAGE_ZOMBIE_TUTORIAL_GARGANTUAR_TUTORIAL_GARGANTUAR_87X65",
+			"dimension": {
+				"width": 87,
+				"height": 65
+			},
+			"additional": null
+		},
+		"tutorial_gargantuar_107x75": {
+			"id": "IMAGE_ZOMBIE_TUTORIAL_GARGANTUAR_TUTORIAL_GARGANTUAR_107X75",
+			"dimension": {
+				"width": 107,
+				"height": 75
+			},
+			"additional": null
+		},
+		"tutorial_gargantuar_102x78": {
+			"id": "IMAGE_ZOMBIE_TUTORIAL_GARGANTUAR_TUTORIAL_GARGANTUAR_102X78",
+			"dimension": {
+				"width": 102,
+				"height": 78
+			},
+			"additional": null
+		},
+		"tutorial_gargantuar_82x51": {
+			"id": "IMAGE_ZOMBIE_TUTORIAL_GARGANTUAR_TUTORIAL_GARGANTUAR_82X51",
+			"dimension": {
+				"width": 82,
+				"height": 51
+			},
+			"additional": null
+		},
+		"tutorial_gargantuar_17x23": {
+			"id": "IMAGE_ZOMBIE_TUTORIAL_GARGANTUAR_TUTORIAL_GARGANTUAR_17X23",
+			"dimension": {
+				"width": 17,
+				"height": 23
+			},
+			"additional": null
+		},
+		"tutorial_gargantuar_15x24": {
+			"id": "IMAGE_ZOMBIE_TUTORIAL_GARGANTUAR_TUTORIAL_GARGANTUAR_15X24",
+			"dimension": {
+				"width": 15,
+				"height": 24
+			},
+			"additional": null
+		},
+		"tutorial_gargantuar_13x22": {
+			"id": "IMAGE_ZOMBIE_TUTORIAL_GARGANTUAR_TUTORIAL_GARGANTUAR_13X22",
+			"dimension": {
+				"width": 13,
+				"height": 22
+			},
+			"additional": null
+		},
+		"tutorial_gargantuar_16x29": {
+			"id": "IMAGE_ZOMBIE_TUTORIAL_GARGANTUAR_TUTORIAL_GARGANTUAR_16X29",
+			"dimension": {
+				"width": 16,
+				"height": 29
+			},
+			"additional": null
+		},
+		"tutorial_gargantuar_18x13": {
+			"id": "IMAGE_ZOMBIE_TUTORIAL_GARGANTUAR_TUTORIAL_GARGANTUAR_18X13",
+			"dimension": {
+				"width": 18,
+				"height": 13
+			},
+			"additional": null
+		},
+		"tutorial_gargantuar_22x27": {
+			"id": "IMAGE_ZOMBIE_TUTORIAL_GARGANTUAR_TUTORIAL_GARGANTUAR_22X27",
+			"dimension": {
+				"width": 22,
+				"height": 27
+			},
+			"additional": null
+		},
+		"tutorial_gargantuar_15x26": {
+			"id": "IMAGE_ZOMBIE_TUTORIAL_GARGANTUAR_TUTORIAL_GARGANTUAR_15X26",
+			"dimension": {
+				"width": 15,
+				"height": 26
+			},
+			"additional": null
+		},
+		"tutorial_gargantuar_18x13_2": {
+			"id": "IMAGE_ZOMBIE_TUTORIAL_GARGANTUAR_TUTORIAL_GARGANTUAR_18X13_2",
+			"dimension": {
+				"width": 18,
+				"height": 13
+			},
+			"additional": null
+		},
+		"tutorial_gargantuar_53x28": {
+			"id": "IMAGE_ZOMBIE_TUTORIAL_GARGANTUAR_TUTORIAL_GARGANTUAR_53X28",
+			"dimension": {
+				"width": 53,
+				"height": 28
+			},
+			"additional": null
+		},
+		"tutorial_gargantuar_22x28": {
+			"id": "IMAGE_ZOMBIE_TUTORIAL_GARGANTUAR_TUTORIAL_GARGANTUAR_22X28",
+			"dimension": {
+				"width": 22,
+				"height": 28
+			},
+			"additional": null
+		},
+		"tutorial_gargantuar_67x65": {
+			"id": "IMAGE_ZOMBIE_TUTORIAL_GARGANTUAR_TUTORIAL_GARGANTUAR_67X65",
+			"dimension": {
+				"width": 67,
+				"height": 65
+			},
+			"additional": null
+		},
+		"tutorial_gargantuar_66x33": {
+			"id": "IMAGE_ZOMBIE_TUTORIAL_GARGANTUAR_TUTORIAL_GARGANTUAR_66X33",
+			"dimension": {
+				"width": 66,
+				"height": 33
+			},
+			"additional": null
+		},
+		"tutorial_gargantuar_73x54": {
+			"id": "IMAGE_ZOMBIE_TUTORIAL_GARGANTUAR_TUTORIAL_GARGANTUAR_73X54",
+			"dimension": {
+				"width": 73,
+				"height": 54
+			},
+			"additional": null
+		},
+		"tutorial_gargantuar_30x30": {
+			"id": "IMAGE_ZOMBIE_TUTORIAL_GARGANTUAR_TUTORIAL_GARGANTUAR_30X30",
+			"dimension": {
+				"width": 30,
+				"height": 30
+			},
+			"additional": null
+		},
+		"tutorial_gargantuar_7x7": {
+			"id": "IMAGE_ZOMBIE_TUTORIAL_GARGANTUAR_TUTORIAL_GARGANTUAR_7X7",
+			"dimension": {
+				"width": 7,
+				"height": 7
+			},
+			"additional": null
+		},
+		"tutorial_gargantuar_14x11": {
+			"id": "IMAGE_ZOMBIE_TUTORIAL_GARGANTUAR_TUTORIAL_GARGANTUAR_14X11",
+			"dimension": {
+				"width": 14,
+				"height": 11
+			},
+			"additional": null
+		},
+		"tutorial_gargantuar_20x20": {
+			"id": "IMAGE_ZOMBIE_TUTORIAL_GARGANTUAR_TUTORIAL_GARGANTUAR_20X20",
+			"dimension": {
+				"width": 20,
+				"height": 20
+			},
+			"additional": null
+		},
+		"tutorial_gargantuar_52x29": {
+			"id": "IMAGE_ZOMBIE_TUTORIAL_GARGANTUAR_TUTORIAL_GARGANTUAR_52X29",
+			"dimension": {
+				"width": 52,
+				"height": 29
+			},
+			"additional": null
+		},
+		"tutorial_gargantuar_17x27": {
+			"id": "IMAGE_ZOMBIE_TUTORIAL_GARGANTUAR_TUTORIAL_GARGANTUAR_17X27",
+			"dimension": {
+				"width": 17,
+				"height": 27
+			},
+			"additional": null
+		},
+		"tutorial_gargantuar_16x25": {
+			"id": "IMAGE_ZOMBIE_TUTORIAL_GARGANTUAR_TUTORIAL_GARGANTUAR_16X25",
+			"dimension": {
+				"width": 16,
+				"height": 25
+			},
+			"additional": null
+		},
+		"tutorial_gargantuar_21x25": {
+			"id": "IMAGE_ZOMBIE_TUTORIAL_GARGANTUAR_TUTORIAL_GARGANTUAR_21X25",
+			"dimension": {
+				"width": 21,
+				"height": 25
+			},
+			"additional": null
+		},
+		"tutorial_gargantuar_13x23": {
+			"id": "IMAGE_ZOMBIE_TUTORIAL_GARGANTUAR_TUTORIAL_GARGANTUAR_13X23",
+			"dimension": {
+				"width": 13,
+				"height": 23
+			},
+			"additional": null
+		},
+		"tutorial_gargantuar_92x113": {
+			"id": "IMAGE_ZOMBIE_TUTORIAL_GARGANTUAR_TUTORIAL_GARGANTUAR_92X113",
+			"dimension": {
+				"width": 92,
+				"height": 113
+			},
+			"additional": null
+		},
+		"tutorial_gargantuar_187x102": {
+			"id": "IMAGE_ZOMBIE_TUTORIAL_GARGANTUAR_TUTORIAL_GARGANTUAR_187X102",
+			"dimension": {
+				"width": 187,
+				"height": 102
+			},
+			"additional": null
+		},
+		"tutorial_gargantuar_113x63": {
+			"id": "IMAGE_ZOMBIE_TUTORIAL_GARGANTUAR_TUTORIAL_GARGANTUAR_113X63",
+			"dimension": {
+				"width": 113,
+				"height": 63
+			},
+			"additional": null
+		},
+		"tutorial_gargantuar_252x191": {
+			"id": "IMAGE_ZOMBIE_TUTORIAL_GARGANTUAR_TUTORIAL_GARGANTUAR_252X191",
+			"dimension": {
+				"width": 252,
+				"height": 191
+			},
+			"additional": null
+		},
+		"tutorial_gargantuar_52x73": {
+			"id": "IMAGE_ZOMBIE_TUTORIAL_GARGANTUAR_TUTORIAL_GARGANTUAR_52X73",
+			"dimension": {
+				"width": 52,
+				"height": 73
+			},
+			"additional": null
+		},
+		"tutorial_gargantuar_106x25": {
+			"id": "IMAGE_ZOMBIE_TUTORIAL_GARGANTUAR_TUTORIAL_GARGANTUAR_106X25",
+			"dimension": {
+				"width": 106,
+				"height": 25
+			},
+			"additional": null
+		},
+		"tutorial_gargantuar_75x66": {
+			"id": "IMAGE_ZOMBIE_TUTORIAL_GARGANTUAR_TUTORIAL_GARGANTUAR_75X66",
+			"dimension": {
+				"width": 75,
+				"height": 66
+			},
+			"additional": null
+		},
+		"tutorial_gargantuar_103x117": {
+			"id": "IMAGE_ZOMBIE_TUTORIAL_GARGANTUAR_TUTORIAL_GARGANTUAR_103X117",
+			"dimension": {
+				"width": 103,
+				"height": 117
+			},
+			"additional": null
+		},
+		"tutorial_gargantuar_43x39": {
+			"id": "IMAGE_ZOMBIE_TUTORIAL_GARGANTUAR_TUTORIAL_GARGANTUAR_43X39",
+			"dimension": {
+				"width": 43,
+				"height": 39
+			},
+			"additional": null
+		},
+		"tutorial_gargantuar_34x48": {
+			"id": "IMAGE_ZOMBIE_TUTORIAL_GARGANTUAR_TUTORIAL_GARGANTUAR_34X48",
+			"dimension": {
+				"width": 34,
+				"height": 48
+			},
+			"additional": null
+		},
+		"tutorial_gargantuar_25x25": {
+			"id": "IMAGE_ZOMBIE_TUTORIAL_GARGANTUAR_TUTORIAL_GARGANTUAR_25X25",
+			"dimension": {
+				"width": 25,
+				"height": 25
+			},
+			"additional": null
+		},
+		"tutorial_gargantuar_49x48": {
+			"id": "IMAGE_ZOMBIE_TUTORIAL_GARGANTUAR_TUTORIAL_GARGANTUAR_49X48",
+			"dimension": {
+				"width": 49,
+				"height": 48
+			},
+			"additional": null
+		},
+		"tutorial_gargantuar_12x15": {
+			"id": "IMAGE_ZOMBIE_TUTORIAL_GARGANTUAR_TUTORIAL_GARGANTUAR_12X15",
+			"dimension": {
+				"width": 12,
+				"height": 15
+			},
+			"additional": null
+		},
+		"tutorial_gargantuar_10x19": {
+			"id": "IMAGE_ZOMBIE_TUTORIAL_GARGANTUAR_TUTORIAL_GARGANTUAR_10X19",
+			"dimension": {
+				"width": 10,
+				"height": 19
+			},
+			"additional": null
+		},
+		"tutorial_gargantuar_32x19": {
+			"id": "IMAGE_ZOMBIE_TUTORIAL_GARGANTUAR_TUTORIAL_GARGANTUAR_32X19",
+			"dimension": {
+				"width": 32,
+				"height": 19
+			},
+			"additional": null
+		},
+		"tutorial_gargantuar_122x111": {
+			"id": "IMAGE_ZOMBIE_TUTORIAL_GARGANTUAR_TUTORIAL_GARGANTUAR_122X111",
+			"dimension": {
+				"width": 122,
+				"height": 111
+			},
+			"additional": null
+		},
+		"tutorial_gargantuar_70x71": {
+			"id": "IMAGE_ZOMBIE_TUTORIAL_GARGANTUAR_TUTORIAL_GARGANTUAR_70X71",
+			"dimension": {
+				"width": 70,
+				"height": 71
+			},
+			"additional": null
+		},
+		"tutorial_gargantuar_31x47": {
+			"id": "IMAGE_ZOMBIE_TUTORIAL_GARGANTUAR_TUTORIAL_GARGANTUAR_31X47",
+			"dimension": {
+				"width": 31,
+				"height": 47
+			},
+			"additional": null
+		},
+		"tutorial_gargantuar_61x41": {
+			"id": "IMAGE_ZOMBIE_TUTORIAL_GARGANTUAR_TUTORIAL_GARGANTUAR_61X41",
+			"dimension": {
+				"width": 61,
+				"height": 41
+			},
+			"additional": null
+		},
+		"tutorial_gargantuar_292x264": {
+			"id": "IMAGE_ZOMBIE_TUTORIAL_GARGANTUAR_TUTORIAL_GARGANTUAR_292X264",
+			"dimension": {
+				"width": 292,
+				"height": 264
+			},
+			"additional": null
+		},
+		"tutorial_gargantuar_27x27": {
+			"id": "IMAGE_ZOMBIE_TUTORIAL_GARGANTUAR_TUTORIAL_GARGANTUAR_27X27",
+			"dimension": {
+				"width": 27,
+				"height": 27
+			},
+			"additional": null
+		},
+		"tutorial_gargantuar_119x111": {
+			"id": "IMAGE_ZOMBIE_TUTORIAL_GARGANTUAR_TUTORIAL_GARGANTUAR_119X111",
+			"dimension": {
+				"width": 119,
+				"height": 111
+			},
+			"additional": null
+		},
+		"tutorial_gargantuar_101x74": {
+			"id": "IMAGE_ZOMBIE_TUTORIAL_GARGANTUAR_TUTORIAL_GARGANTUAR_101X74",
+			"dimension": {
+				"width": 101,
+				"height": 74
+			},
+			"additional": null
+		},
+		"tutorial_gargantuar_99x108": {
+			"id": "IMAGE_ZOMBIE_TUTORIAL_GARGANTUAR_TUTORIAL_GARGANTUAR_99X108",
+			"dimension": {
+				"width": 99,
+				"height": 108
+			},
+			"additional": null
+		},
+		"tutorial_gargantuar_98x102": {
+			"id": "IMAGE_ZOMBIE_TUTORIAL_GARGANTUAR_TUTORIAL_GARGANTUAR_98X102",
+			"dimension": {
+				"width": 98,
+				"height": 102
+			},
+			"additional": null
+		},
+		"tutorial_gargantuar_135x8": {
+			"id": "IMAGE_ZOMBIE_TUTORIAL_GARGANTUAR_TUTORIAL_GARGANTUAR_135X8",
+			"dimension": {
+				"width": 135,
+				"height": 8
+			},
+			"additional": null
+		},
+		"tutorial_gargantuar_6x6": {
+			"id": "IMAGE_ZOMBIE_TUTORIAL_GARGANTUAR_TUTORIAL_GARGANTUAR_6X6",
+			"dimension": {
+				"width": 6,
+				"height": 6
+			},
+			"additional": null
+		},
+		"tutorial_gargantuar_288x288": {
+			"id": "IMAGE_ZOMBIE_TUTORIAL_GARGANTUAR_TUTORIAL_GARGANTUAR_288X288",
+			"dimension": {
+				"width": 288,
+				"height": 288
+			},
+			"additional": null
+		},
+		"tutorial_gargantuar_230x270": {
+			"id": "IMAGE_ZOMBIE_TUTORIAL_GARGANTUAR_TUTORIAL_GARGANTUAR_230X270",
+			"dimension": {
+				"width": 230,
+				"height": 270
+			},
+			"additional": null
+		},
+		"tutorial_gargantuar_105x89": {
+			"id": "IMAGE_ZOMBIE_TUTORIAL_GARGANTUAR_TUTORIAL_GARGANTUAR_105X89",
+			"dimension": {
+				"width": 105,
+				"height": 89
+			},
+			"additional": null
+		},
+		"tutorial_gargantuar_116x123": {
+			"id": "IMAGE_ZOMBIE_TUTORIAL_GARGANTUAR_TUTORIAL_GARGANTUAR_116X123",
+			"dimension": {
+				"width": 116,
+				"height": 123
+			},
+			"additional": null
+		},
+		"tutorial_gargantuar_153x104": {
+			"id": "IMAGE_ZOMBIE_TUTORIAL_GARGANTUAR_TUTORIAL_GARGANTUAR_153X104",
+			"dimension": {
+				"width": 153,
+				"height": 104
+			},
+			"additional": null
+		},
+		"tutorial_gargantuar_223x118": {
+			"id": "IMAGE_ZOMBIE_TUTORIAL_GARGANTUAR_TUTORIAL_GARGANTUAR_223X118",
+			"dimension": {
+				"width": 223,
+				"height": 118
+			},
+			"additional": null
+		},
+		"tutorial_gargantuar_269x95": {
+			"id": "IMAGE_ZOMBIE_TUTORIAL_GARGANTUAR_TUTORIAL_GARGANTUAR_269X95",
+			"dimension": {
+				"width": 269,
+				"height": 95
+			},
+			"additional": null
+		},
+		"tutorial_gargantuar_274x90": {
+			"id": "IMAGE_ZOMBIE_TUTORIAL_GARGANTUAR_TUTORIAL_GARGANTUAR_274X90",
+			"dimension": {
+				"width": 274,
+				"height": 90
+			},
+			"additional": null
+		}
+	},
+	"sprite": {}
+}

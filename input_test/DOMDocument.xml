@@ -1,0 +1,613 @@
+<DOMDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" frameRate="30" width="390.000000" height="390.000000" xflVersion="2.971">
+    <folders>
+        <DOMFolderItem name="media" isExpanded="true"/>
+        <DOMFolderItem name="image" isExpanded="true"/>
+        <DOMFolderItem name="sprite" isExpanded="true"/>
+        <DOMFolderItem name="label" isExpanded="true"/>
+    </folders>
+    <media>
+        <DOMBitmapItem name="media/bowlingbulb_56x23" href="media/bowlingbulb_56x23.png"/>
+        <DOMBitmapItem name="media/bowlingbulb_56x20" href="media/bowlingbulb_56x20.png"/>
+        <DOMBitmapItem name="media/bowlingbulb_53x23" href="media/bowlingbulb_53x23.png"/>
+        <DOMBitmapItem name="media/bowlingbulb_20x25" href="media/bowlingbulb_20x25.png"/>
+        <DOMBitmapItem name="media/bowlingbulb_36x24" href="media/bowlingbulb_36x24.png"/>
+        <DOMBitmapItem name="media/bowlingbulb_66x74" href="media/bowlingbulb_66x74.png"/>
+        <DOMBitmapItem name="media/bowlingbulb_21x22" href="media/bowlingbulb_21x22.png"/>
+        <DOMBitmapItem name="media/bowlingbulb_14x17" href="media/bowlingbulb_14x17.png"/>
+        <DOMBitmapItem name="media/bowlingbulb_9x9" href="media/bowlingbulb_9x9.png"/>
+        <DOMBitmapItem name="media/bowlingbulb_71x31" href="media/bowlingbulb_71x31.png"/>
+        <DOMBitmapItem name="media/bowlingbulb_40x38" href="media/bowlingbulb_40x38.png"/>
+        <DOMBitmapItem name="media/bowlingbulb_50x33" href="media/bowlingbulb_50x33.png"/>
+        <DOMBitmapItem name="media/bowlingbulb_66x68" href="media/bowlingbulb_66x68.png"/>
+        <DOMBitmapItem name="media/bowlingbulb_16x16" href="media/bowlingbulb_16x16.png"/>
+        <DOMBitmapItem name="media/bowlingbulb_13x14" href="media/bowlingbulb_13x14.png"/>
+        <DOMBitmapItem name="media/bowlingbulb_11x11" href="media/bowlingbulb_11x11.png"/>
+        <DOMBitmapItem name="media/bowlingbulb_80x27" href="media/bowlingbulb_80x27.png"/>
+        <DOMBitmapItem name="media/bowlingbulb_54x23" href="media/bowlingbulb_54x23.png"/>
+        <DOMBitmapItem name="media/bowlingbulb_29x18" href="media/bowlingbulb_29x18.png"/>
+        <DOMBitmapItem name="media/bowlingbulb_72x63" href="media/bowlingbulb_72x63.png"/>
+        <DOMBitmapItem name="media/bowlingbulb_13x19" href="media/bowlingbulb_13x19.png"/>
+        <DOMBitmapItem name="media/bowlingbulb_11x18" href="media/bowlingbulb_11x18.png"/>
+        <DOMBitmapItem name="media/bowlingbulb_10x10" href="media/bowlingbulb_10x10.png"/>
+        <DOMBitmapItem name="media/bowlingbulb_76x25" href="media/bowlingbulb_76x25.png"/>
+        <DOMBitmapItem name="media/bowlingbulb_159x69" href="media/bowlingbulb_159x69.png"/>
+        <DOMBitmapItem name="media/bowlingbulb_32x34" href="media/bowlingbulb_32x34.png"/>
+        <DOMBitmapItem name="media/bowlingbulb_22x22" href="media/bowlingbulb_22x22.png"/>
+        <DOMBitmapItem name="media/bowlingbulb_97x95" href="media/bowlingbulb_97x95.png"/>
+        <DOMBitmapItem name="media/bowlingbulb_34x51" href="media/bowlingbulb_34x51.png"/>
+        <DOMBitmapItem name="media/bowlingbulb_92x88" href="media/bowlingbulb_92x88.png"/>
+        <DOMBitmapItem name="media/bowlingbulb_79x71" href="media/bowlingbulb_79x71.png"/>
+        <DOMBitmapItem name="media/bowlingbulb_97x95_2" href="media/bowlingbulb_97x95_2.png"/>
+        <DOMBitmapItem name="media/bowlingbulb_92x88_2" href="media/bowlingbulb_92x88_2.png"/>
+        <DOMBitmapItem name="media/bowlingbulb_79x71_2" href="media/bowlingbulb_79x71_2.png"/>
+        <DOMBitmapItem name="media/bowlingbulb_97x95_3" href="media/bowlingbulb_97x95_3.png"/>
+        <DOMBitmapItem name="media/bowlingbulb_92x88_3" href="media/bowlingbulb_92x88_3.png"/>
+        <DOMBitmapItem name="media/bowlingbulb_79x71_3" href="media/bowlingbulb_79x71_3.png"/>
+        <DOMBitmapItem name="media/bowlingbulb_89x89" href="media/bowlingbulb_89x89.png"/>
+        <DOMBitmapItem name="media/bowlingbulb_83x83" href="media/bowlingbulb_83x83.png"/>
+        <DOMBitmapItem name="media/bowlingbulb_31x31" href="media/bowlingbulb_31x31.png"/>
+        <DOMBitmapItem name="media/bowlingbulb_43x45" href="media/bowlingbulb_43x45.png"/>
+        <DOMBitmapItem name="media/bowlingbulb_38x40" href="media/bowlingbulb_38x40.png"/>
+        <DOMBitmapItem name="media/bowlingbulb_1x1" href="media/bowlingbulb_1x1.png"/>
+        <DOMBitmapItem name="media/bowlingbulb_66x88" href="media/bowlingbulb_66x88.png"/>
+        <DOMBitmapItem name="media/bowlingbulb_68x61" href="media/bowlingbulb_68x61.png"/>
+        <DOMBitmapItem name="media/bowlingbulb_63x63" href="media/bowlingbulb_63x63.png"/>
+        <DOMBitmapItem name="media/bowlingbulb_80x83" href="media/bowlingbulb_80x83.png"/>
+        <DOMBitmapItem name="media/bowlingbulb_100x93" href="media/bowlingbulb_100x93.png"/>
+        <DOMBitmapItem name="media/bowlingbulb_82x84" href="media/bowlingbulb_82x84.png"/>
+        <DOMBitmapItem name="media/bowlingbulb_134x117" href="media/bowlingbulb_134x117.png"/>
+        <DOMBitmapItem name="media/bowlingbulb_75x79" href="media/bowlingbulb_75x79.png"/>
+        <DOMBitmapItem name="media/bowlingbulb_83x85" href="media/bowlingbulb_83x85.png"/>
+        <DOMBitmapItem name="media/bowlingbulb_80x67" href="media/bowlingbulb_80x67.png"/>
+        <DOMBitmapItem name="media/bowlingbulb_80x83_2" href="media/bowlingbulb_80x83_2.png"/>
+        <DOMBitmapItem name="media/bowlingbulb_40x40" href="media/bowlingbulb_40x40.png"/>
+        <DOMBitmapItem name="media/bowlingbulb_18x39" href="media/bowlingbulb_18x39.png"/>
+        <DOMBitmapItem name="media/bowlingbulb_24x21" href="media/bowlingbulb_24x21.png"/>
+        <DOMBitmapItem name="media/bowlingbulb_24x18" href="media/bowlingbulb_24x18.png"/>
+        <DOMBitmapItem name="media/bowlingbulb_29x36" href="media/bowlingbulb_29x36.png"/>
+        <DOMBitmapItem name="media/bowlingbulb_15x31" href="media/bowlingbulb_15x31.png"/>
+        <DOMBitmapItem name="media/bowlingbulb_12x12" href="media/bowlingbulb_12x12.png"/>
+        <DOMBitmapItem name="media/bowlingbulb_18x35" href="media/bowlingbulb_18x35.png"/>
+        <DOMBitmapItem name="media/bowlingbulb_42x42" href="media/bowlingbulb_42x42.png"/>
+        <DOMBitmapItem name="media/bowlingbulb_29x23" href="media/bowlingbulb_29x23.png"/>
+    </media>
+    <symbols>
+        <Include href="image/bowlingbulb_56x23.xml"/>
+        <Include href="image/bowlingbulb_56x20.xml"/>
+        <Include href="image/bowlingbulb_53x23.xml"/>
+        <Include href="image/bowlingbulb_20x25.xml"/>
+        <Include href="image/bowlingbulb_36x24.xml"/>
+        <Include href="image/bowlingbulb_66x74.xml"/>
+        <Include href="image/bowlingbulb_21x22.xml"/>
+        <Include href="image/bowlingbulb_14x17.xml"/>
+        <Include href="image/bowlingbulb_9x9.xml"/>
+        <Include href="image/bowlingbulb_71x31.xml"/>
+        <Include href="image/bowlingbulb_40x38.xml"/>
+        <Include href="image/bowlingbulb_50x33.xml"/>
+        <Include href="image/bowlingbulb_66x68.xml"/>
+        <Include href="image/bowlingbulb_16x16.xml"/>
+        <Include href="image/bowlingbulb_13x14.xml"/>
+        <Include href="image/bowlingbulb_11x11.xml"/>
+        <Include href="image/bowlingbulb_80x27.xml"/>
+        <Include href="image/bowlingbulb_54x23.xml"/>
+        <Include href="image/bowlingbulb_29x18.xml"/>
+        <Include href="image/bowlingbulb_72x63.xml"/>
+        <Include href="image/bowlingbulb_13x19.xml"/>
+        <Include href="image/bowlingbulb_11x18.xml"/>
+        <Include href="image/bowlingbulb_10x10.xml"/>
+        <Include href="image/bowlingbulb_76x25.xml"/>
+        <Include href="image/bowlingbulb_159x69.xml"/>
+        <Include href="image/bowlingbulb_32x34.xml"/>
+        <Include href="image/bowlingbulb_22x22.xml"/>
+        <Include href="image/bowlingbulb_97x95.xml"/>
+        <Include href="image/bowlingbulb_34x51.xml"/>
+        <Include href="image/bowlingbulb_92x88.xml"/>
+        <Include href="image/bowlingbulb_79x71.xml"/>
+        <Include href="image/bowlingbulb_97x95_2.xml"/>
+        <Include href="image/bowlingbulb_92x88_2.xml"/>
+        <Include href="image/bowlingbulb_79x71_2.xml"/>
+        <Include href="image/bowlingbulb_97x95_3.xml"/>
+        <Include href="image/bowlingbulb_92x88_3.xml"/>
+        <Include href="image/bowlingbulb_79x71_3.xml"/>
+        <Include href="image/bowlingbulb_89x89.xml"/>
+        <Include href="image/bowlingbulb_83x83.xml"/>
+        <Include href="image/bowlingbulb_31x31.xml"/>
+        <Include href="image/bowlingbulb_43x45.xml"/>
+        <Include href="image/bowlingbulb_38x40.xml"/>
+        <Include href="image/bowlingbulb_1x1.xml"/>
+        <Include href="image/bowlingbulb_66x88.xml"/>
+        <Include href="image/bowlingbulb_68x61.xml"/>
+        <Include href="image/bowlingbulb_63x63.xml"/>
+        <Include href="image/bowlingbulb_80x83.xml"/>
+        <Include href="image/bowlingbulb_100x93.xml"/>
+        <Include href="image/bowlingbulb_82x84.xml"/>
+        <Include href="image/bowlingbulb_134x117.xml"/>
+        <Include href="image/bowlingbulb_75x79.xml"/>
+        <Include href="image/bowlingbulb_83x85.xml"/>
+        <Include href="image/bowlingbulb_80x67.xml"/>
+        <Include href="image/bowlingbulb_80x83_2.xml"/>
+        <Include href="image/bowlingbulb_40x40.xml"/>
+        <Include href="image/bowlingbulb_18x39.xml"/>
+        <Include href="image/bowlingbulb_24x21.xml"/>
+        <Include href="image/bowlingbulb_24x18.xml"/>
+        <Include href="image/bowlingbulb_29x36.xml"/>
+        <Include href="image/bowlingbulb_15x31.xml"/>
+        <Include href="image/bowlingbulb_12x12.xml"/>
+        <Include href="image/bowlingbulb_18x35.xml"/>
+        <Include href="image/bowlingbulb_42x42.xml"/>
+        <Include href="image/bowlingbulb_29x23.xml"/>
+        <Include href="sprite/bulb3_body_unloaded.xml"/>
+        <Include href="sprite/custom_1.xml"/>
+        <Include href="sprite/_custom.xml"/>
+        <Include href="sprite/bulb3_stem.xml"/>
+        <Include href="sprite/bulb3_body.xml"/>
+        <Include href="sprite/bulb3_eye_left.xml"/>
+        <Include href="sprite/bulb3_eye_right.xml"/>
+        <Include href="sprite/bulb3_mouth.xml"/>
+        <Include href="sprite/bulb3_top.xml"/>
+        <Include href="sprite/bulb2_stem.xml"/>
+        <Include href="sprite/bulb2_body_unloaded.xml"/>
+        <Include href="sprite/bulb2_top.xml"/>
+        <Include href="sprite/bulb2_body.xml"/>
+        <Include href="sprite/bulb2_eye_left.xml"/>
+        <Include href="sprite/bulb2_eye_right.xml"/>
+        <Include href="sprite/bulb2_mouth.xml"/>
+        <Include href="sprite/bulb1_body_unloaded.xml"/>
+        <Include href="sprite/bulb1_stem.xml"/>
+        <Include href="sprite/bulb1_body.xml"/>
+        <Include href="sprite/bulb1_top.xml"/>
+        <Include href="sprite/bulb1_eye_left.xml"/>
+        <Include href="sprite/bulb1_eye_right.xml"/>
+        <Include href="sprite/bulb1_mouth.xml"/>
+        <Include href="sprite/spikeweed_dirtWave.xml"/>
+        <Include href="sprite/spikeweed_rock.xml"/>
+        <Include href="sprite/Plasma_Ball_Small.xml"/>
+        <Include href="sprite/empeach_arc_03.xml"/>
+        <Include href="sprite/empeach_arc_06.xml"/>
+        <Include href="sprite/empeach_arc_05.xml"/>
+        <Include href="sprite/empeach_arc_04.xml"/>
+        <Include href="sprite/empeach_arc_07.xml"/>
+        <Include href="sprite/waterdrops.xml"/>
+        <Include href="label/idle.xml"/>
+        <Include href="label/special.xml"/>
+        <Include href="label/special2.xml"/>
+        <Include href="label/special3.xml"/>
+        <Include href="label/reload.xml"/>
+        <Include href="label/reload2.xml"/>
+        <Include href="label/reload3.xml"/>
+        <Include href="label/plantfood_on.xml"/>
+        <Include href="label/plantfood_idle.xml"/>
+        <Include href="label/plantfood1.xml"/>
+        <Include href="label/plantfood2.xml"/>
+        <Include href="label/plantfood3.xml"/>
+        <Include href="label/water.xml"/>
+    </symbols>
+    <timelines>
+        <DOMTimeline name="animation">
+            <layers>
+                <DOMLayer name="label">
+                    <frames>
+                        <DOMFrame index="0" duration="80" name="idle" labelType="name">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="80" duration="80" name="special" labelType="name">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="160" duration="80" name="special2" labelType="name">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="240" duration="80" name="special3" labelType="name">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="320" duration="25" name="reload" labelType="name">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="345" duration="24" name="reload2" labelType="name">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="369" duration="26" name="reload3" labelType="name">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="395" duration="37" name="plantfood_on" labelType="name">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="432" duration="60" name="plantfood_idle" labelType="name">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="492" duration="24" name="plantfood1" labelType="name">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="516" duration="23" name="plantfood2" labelType="name">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="539" duration="27" name="plantfood3" labelType="name">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="566" duration="81" name="water" labelType="name">
+                            <elements/>
+                        </DOMFrame>
+                    </frames>
+                </DOMLayer>
+                <DOMLayer name="action">
+                    <frames>
+                        <DOMFrame index="0" duration="1">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="1">
+                            <Actionscript>
+                                <script><![CDATA[fscommand("PlaySample", "Play_Plant_BowlingBulb_PlantFood_End");]]></script>
+                            </Actionscript>
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="2" duration="77">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="79">
+                            <Actionscript>
+                                <script><![CDATA[stop();]]></script>
+                            </Actionscript>
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="80" duration="1">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="81">
+                            <Actionscript>
+                                <script><![CDATA[fscommand("PlaySample", "Play_Plant_BowlingBulb_Attack_Start_01");]]></script>
+                            </Actionscript>
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="82">
+                            <Actionscript>
+                                <script><![CDATA[fscommand("PlaySample", "Play_Plant_BowlingBulb_Attack_Fire_01");]]></script>
+                            </Actionscript>
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="83" duration="16">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="99">
+                            <Actionscript>
+                                <script><![CDATA[fscommand("use_action", "");]]></script>
+                            </Actionscript>
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="100" duration="59">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="159">
+                            <Actionscript>
+                                <script><![CDATA[stop();]]></script>
+                            </Actionscript>
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="160" duration="1">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="161">
+                            <Actionscript>
+                                <script><![CDATA[fscommand("PlaySample", "Play_Plant_BowlingBulb_Attack_Start_02");]]></script>
+                            </Actionscript>
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="162">
+                            <Actionscript>
+                                <script><![CDATA[fscommand("PlaySample", "Play_Plant_BowlingBulb_Attack_Fire_02");]]></script>
+                            </Actionscript>
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="163" duration="16">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="179">
+                            <Actionscript>
+                                <script><![CDATA[fscommand("use_action", "");]]></script>
+                            </Actionscript>
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="180" duration="59">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="239">
+                            <Actionscript>
+                                <script><![CDATA[stop();]]></script>
+                            </Actionscript>
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="240" duration="1">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="241">
+                            <Actionscript>
+                                <script><![CDATA[fscommand("PlaySample", "Play_Plant_BowlingBulb_Attack_Start_03");]]></script>
+                            </Actionscript>
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="242" duration="1">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="243">
+                            <Actionscript>
+                                <script><![CDATA[fscommand("PlaySample", "Play_Plant_BowlingBulb_Attack_Fire_03");]]></script>
+                            </Actionscript>
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="244" duration="15">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="259">
+                            <Actionscript>
+                                <script><![CDATA[fscommand("use_action", "");]]></script>
+                            </Actionscript>
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="260" duration="59">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="319">
+                            <Actionscript>
+                                <script><![CDATA[stop();]]></script>
+                            </Actionscript>
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="320" duration="1">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="321">
+                            <Actionscript>
+                                <script><![CDATA[fscommand("PlaySample", "Play_Plant_BowlingBulb_Reload_01");]]></script>
+                            </Actionscript>
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="322" duration="22">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="344">
+                            <Actionscript>
+                                <script><![CDATA[stop();]]></script>
+                            </Actionscript>
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="345" duration="1">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="346">
+                            <Actionscript>
+                                <script><![CDATA[fscommand("PlaySample", "Play_Plant_BowlingBulb_Reload_02");]]></script>
+                            </Actionscript>
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="347" duration="21">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="368">
+                            <Actionscript>
+                                <script><![CDATA[stop();]]></script>
+                            </Actionscript>
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="369" duration="1">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="370">
+                            <Actionscript>
+                                <script><![CDATA[fscommand("PlaySample", "Play_Plant_BowlingBulb_Reload_03");]]></script>
+                            </Actionscript>
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="371" duration="23">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="394">
+                            <Actionscript>
+                                <script><![CDATA[stop();]]></script>
+                            </Actionscript>
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="395" duration="1">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="396">
+                            <Actionscript>
+                                <script><![CDATA[fscommand("PlaySample", "Play_Plant_BowlingBulb_PlantFood_Start");]]></script>
+                            </Actionscript>
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="397" duration="34">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="431">
+                            <Actionscript>
+                                <script><![CDATA[stop();]]></script>
+                            </Actionscript>
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="432" duration="59">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="491">
+                            <Actionscript>
+                                <script><![CDATA[stop();]]></script>
+                            </Actionscript>
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="492">
+                            <Actionscript>
+                                <script><![CDATA[fscommand("PlaySample", "Play_Plant_BowlingBulb_PlantFood_End_01");]]></script>
+                            </Actionscript>
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="493" duration="9">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="502">
+                            <Actionscript>
+                                <script><![CDATA[fscommand("use_special", "");]]></script>
+                            </Actionscript>
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="503" duration="1">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="504">
+                            <Actionscript>
+                                <script><![CDATA[fscommand("PlaySample", "Play_Plant_BowlingBulb_PlantFood_End_Emerge_01");]]></script>
+                            </Actionscript>
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="505" duration="10">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="515">
+                            <Actionscript>
+                                <script><![CDATA[stop();]]></script>
+                            </Actionscript>
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="516">
+                            <Actionscript>
+                                <script><![CDATA[fscommand("PlaySample", "Play_Plant_BowlingBulb_PlantFood_End_02");]]></script>
+                            </Actionscript>
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="517" duration="9">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="526">
+                            <Actionscript>
+                                <script><![CDATA[fscommand("use_special", "");]]></script>
+                            </Actionscript>
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="527">
+                            <Actionscript>
+                                <script><![CDATA[fscommand("PlaySample", "Play_Plant_BowlingBulb_PlantFood_End_Emerge_02");]]></script>
+                            </Actionscript>
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="528" duration="10">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="538">
+                            <Actionscript>
+                                <script><![CDATA[stop();]]></script>
+                            </Actionscript>
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="539">
+                            <Actionscript>
+                                <script><![CDATA[fscommand("PlaySample", "Play_Plant_BowlingBulb_PlantFood_End_03");]]></script>
+                            </Actionscript>
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="540" duration="9">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="549">
+                            <Actionscript>
+                                <script><![CDATA[fscommand("use_special", "");]]></script>
+                            </Actionscript>
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="550" duration="3">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="553">
+                            <Actionscript>
+                                <script><![CDATA[fscommand("PlaySample", "Play_Plant_BowlingBulb_PlantFood_End_Emerge_03");]]></script>
+                            </Actionscript>
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="554" duration="11">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="565">
+                            <Actionscript>
+                                <script><![CDATA[stop();]]></script>
+                            </Actionscript>
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="566" duration="80">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="646">
+                            <Actionscript>
+                                <script><![CDATA[stop();]]></script>
+                            </Actionscript>
+                            <elements/>
+                        </DOMFrame>
+                    </frames>
+                </DOMLayer>
+                <DOMLayer name="instance">
+                    <frames>
+                        <DOMFrame index="0" duration="80">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="label/idle" symbolType="graphic" loop="loop"/>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="80" duration="80">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="label/special" symbolType="graphic" loop="loop"/>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="160" duration="80">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="label/special2" symbolType="graphic" loop="loop"/>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="240" duration="80">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="label/special3" symbolType="graphic" loop="loop"/>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="320" duration="25">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="label/reload" symbolType="graphic" loop="loop"/>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="345" duration="24">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="label/reload2" symbolType="graphic" loop="loop"/>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="369" duration="26">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="label/reload3" symbolType="graphic" loop="loop"/>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="395" duration="37">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="label/plantfood_on" symbolType="graphic" loop="loop"/>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="432" duration="60">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="label/plantfood_idle" symbolType="graphic" loop="loop"/>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="492" duration="24">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="label/plantfood1" symbolType="graphic" loop="loop"/>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="516" duration="23">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="label/plantfood2" symbolType="graphic" loop="loop"/>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="539" duration="27">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="label/plantfood3" symbolType="graphic" loop="loop"/>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="566" duration="81">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="label/water" symbolType="graphic" loop="loop"/>
+                            </elements>
+                        </DOMFrame>
+                    </frames>
+                </DOMLayer>
+            </layers>
+        </DOMTimeline>
+    </timelines>
+</DOMDocument>

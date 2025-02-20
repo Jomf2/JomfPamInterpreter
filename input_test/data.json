@@ -1,0 +1,523 @@
+{
+	"version": 6,
+	"resolution": 1536,
+	"position": {
+		"x": 0,
+		"y": 0
+	},
+	"image": {
+		"bowlingbulb_56x23": {
+			"id": "IMAGE_PLANT_BOWLINGBULB_BOWLINGBULB_56X23",
+			"dimension": {
+				"width": 56,
+				"height": 23
+			},
+			"additional": null
+		},
+		"bowlingbulb_56x20": {
+			"id": "IMAGE_PLANT_BOWLINGBULB_BOWLINGBULB_56X20",
+			"dimension": {
+				"width": 56,
+				"height": 20
+			},
+			"additional": null
+		},
+		"bowlingbulb_53x23": {
+			"id": "IMAGE_PLANT_BOWLINGBULB_BOWLINGBULB_53X23",
+			"dimension": {
+				"width": 53,
+				"height": 23
+			},
+			"additional": null
+		},
+		"bowlingbulb_20x25": {
+			"id": "IMAGE_PLANT_BOWLINGBULB_BOWLINGBULB_20X25",
+			"dimension": {
+				"width": 20,
+				"height": 25
+			},
+			"additional": null
+		},
+		"bowlingbulb_36x24": {
+			"id": "IMAGE_PLANT_BOWLINGBULB_BOWLINGBULB_36X24",
+			"dimension": {
+				"width": 36,
+				"height": 24
+			},
+			"additional": null
+		},
+		"bowlingbulb_66x74": {
+			"id": "IMAGE_PLANT_BOWLINGBULB_BOWLINGBULB_66X74",
+			"dimension": {
+				"width": 66,
+				"height": 74
+			},
+			"additional": null
+		},
+		"bowlingbulb_21x22": {
+			"id": "IMAGE_PLANT_BOWLINGBULB_BOWLINGBULB_21X22",
+			"dimension": {
+				"width": 21,
+				"height": 22
+			},
+			"additional": null
+		},
+		"bowlingbulb_14x17": {
+			"id": "IMAGE_PLANT_BOWLINGBULB_BOWLINGBULB_14X17",
+			"dimension": {
+				"width": 14,
+				"height": 17
+			},
+			"additional": null
+		},
+		"bowlingbulb_9x9": {
+			"id": "IMAGE_PLANT_BOWLINGBULB_BOWLINGBULB_9X9",
+			"dimension": {
+				"width": 9,
+				"height": 9
+			},
+			"additional": null
+		},
+		"bowlingbulb_71x31": {
+			"id": "IMAGE_PLANT_BOWLINGBULB_BOWLINGBULB_71X31",
+			"dimension": {
+				"width": 71,
+				"height": 31
+			},
+			"additional": null
+		},
+		"bowlingbulb_40x38": {
+			"id": "IMAGE_PLANT_BOWLINGBULB_BOWLINGBULB_40X38",
+			"dimension": {
+				"width": 40,
+				"height": 38
+			},
+			"additional": null
+		},
+		"bowlingbulb_50x33": {
+			"id": "IMAGE_PLANT_BOWLINGBULB_BOWLINGBULB_50X33",
+			"dimension": {
+				"width": 50,
+				"height": 33
+			},
+			"additional": null
+		},
+		"bowlingbulb_66x68": {
+			"id": "IMAGE_PLANT_BOWLINGBULB_BOWLINGBULB_66X68",
+			"dimension": {
+				"width": 66,
+				"height": 68
+			},
+			"additional": null
+		},
+		"bowlingbulb_16x16": {
+			"id": "IMAGE_PLANT_BOWLINGBULB_BOWLINGBULB_16X16",
+			"dimension": {
+				"width": 16,
+				"height": 16
+			},
+			"additional": null
+		},
+		"bowlingbulb_13x14": {
+			"id": "IMAGE_PLANT_BOWLINGBULB_BOWLINGBULB_13X14",
+			"dimension": {
+				"width": 13,
+				"height": 14
+			},
+			"additional": null
+		},
+		"bowlingbulb_11x11": {
+			"id": "IMAGE_PLANT_BOWLINGBULB_BOWLINGBULB_11X11",
+			"dimension": {
+				"width": 11,
+				"height": 11
+			},
+			"additional": null
+		},
+		"bowlingbulb_80x27": {
+			"id": "IMAGE_PLANT_BOWLINGBULB_BOWLINGBULB_80X27",
+			"dimension": {
+				"width": 80,
+				"height": 27
+			},
+			"additional": null
+		},
+		"bowlingbulb_54x23": {
+			"id": "IMAGE_PLANT_BOWLINGBULB_BOWLINGBULB_54X23",
+			"dimension": {
+				"width": 54,
+				"height": 23
+			},
+			"additional": null
+		},
+		"bowlingbulb_29x18": {
+			"id": "IMAGE_PLANT_BOWLINGBULB_BOWLINGBULB_29X18",
+			"dimension": {
+				"width": 29,
+				"height": 18
+			},
+			"additional": null
+		},
+		"bowlingbulb_72x63": {
+			"id": "IMAGE_PLANT_BOWLINGBULB_BOWLINGBULB_72X63",
+			"dimension": {
+				"width": 72,
+				"height": 63
+			},
+			"additional": null
+		},
+		"bowlingbulb_13x19": {
+			"id": "IMAGE_PLANT_BOWLINGBULB_BOWLINGBULB_13X19",
+			"dimension": {
+				"width": 13,
+				"height": 19
+			},
+			"additional": null
+		},
+		"bowlingbulb_11x18": {
+			"id": "IMAGE_PLANT_BOWLINGBULB_BOWLINGBULB_11X18",
+			"dimension": {
+				"width": 11,
+				"height": 18
+			},
+			"additional": null
+		},
+		"bowlingbulb_10x10": {
+			"id": "IMAGE_PLANT_BOWLINGBULB_BOWLINGBULB_10X10",
+			"dimension": {
+				"width": 10,
+				"height": 10
+			},
+			"additional": null
+		},
+		"bowlingbulb_76x25": {
+			"id": "IMAGE_PLANT_BOWLINGBULB_BOWLINGBULB_76X25",
+			"dimension": {
+				"width": 76,
+				"height": 25
+			},
+			"additional": null
+		},
+		"bowlingbulb_159x69": {
+			"id": "IMAGE_PLANT_BOWLINGBULB_BOWLINGBULB_159X69",
+			"dimension": {
+				"width": 159,
+				"height": 69
+			},
+			"additional": null
+		},
+		"bowlingbulb_32x34": {
+			"id": "IMAGE_PLANT_BOWLINGBULB_BOWLINGBULB_32X34",
+			"dimension": {
+				"width": 32,
+				"height": 34
+			},
+			"additional": null
+		},
+		"bowlingbulb_22x22": {
+			"id": "IMAGE_PLANT_BOWLINGBULB_BOWLINGBULB_22X22",
+			"dimension": {
+				"width": 22,
+				"height": 22
+			},
+			"additional": null
+		},
+		"bowlingbulb_97x95": {
+			"id": "IMAGE_PLANT_BOWLINGBULB_BOWLINGBULB_97X95",
+			"dimension": {
+				"width": 97,
+				"height": 95
+			},
+			"additional": null
+		},
+		"bowlingbulb_34x51": {
+			"id": "IMAGE_PLANT_BOWLINGBULB_BOWLINGBULB_34X51",
+			"dimension": {
+				"width": 34,
+				"height": 51
+			},
+			"additional": null
+		},
+		"bowlingbulb_92x88": {
+			"id": "IMAGE_PLANT_BOWLINGBULB_BOWLINGBULB_92X88",
+			"dimension": {
+				"width": 92,
+				"height": 88
+			},
+			"additional": null
+		},
+		"bowlingbulb_79x71": {
+			"id": "IMAGE_PLANT_BOWLINGBULB_BOWLINGBULB_79X71",
+			"dimension": {
+				"width": 79,
+				"height": 71
+			},
+			"additional": null
+		},
+		"bowlingbulb_97x95_2": {
+			"id": "IMAGE_PLANT_BOWLINGBULB_BOWLINGBULB_97X95_2",
+			"dimension": {
+				"width": 97,
+				"height": 95
+			},
+			"additional": null
+		},
+		"bowlingbulb_92x88_2": {
+			"id": "IMAGE_PLANT_BOWLINGBULB_BOWLINGBULB_92X88_2",
+			"dimension": {
+				"width": 92,
+				"height": 88
+			},
+			"additional": null
+		},
+		"bowlingbulb_79x71_2": {
+			"id": "IMAGE_PLANT_BOWLINGBULB_BOWLINGBULB_79X71_2",
+			"dimension": {
+				"width": 79,
+				"height": 71
+			},
+			"additional": null
+		},
+		"bowlingbulb_97x95_3": {
+			"id": "IMAGE_PLANT_BOWLINGBULB_BOWLINGBULB_97X95_3",
+			"dimension": {
+				"width": 97,
+				"height": 95
+			},
+			"additional": null
+		},
+		"bowlingbulb_92x88_3": {
+			"id": "IMAGE_PLANT_BOWLINGBULB_BOWLINGBULB_92X88_3",
+			"dimension": {
+				"width": 92,
+				"height": 88
+			},
+			"additional": null
+		},
+		"bowlingbulb_79x71_3": {
+			"id": "IMAGE_PLANT_BOWLINGBULB_BOWLINGBULB_79X71_3",
+			"dimension": {
+				"width": 79,
+				"height": 71
+			},
+			"additional": null
+		},
+		"bowlingbulb_89x89": {
+			"id": "IMAGE_PLANT_BOWLINGBULB_BOWLINGBULB_89X89",
+			"dimension": {
+				"width": 89,
+				"height": 89
+			},
+			"additional": null
+		},
+		"bowlingbulb_83x83": {
+			"id": "IMAGE_PLANT_BOWLINGBULB_BOWLINGBULB_83X83",
+			"dimension": {
+				"width": 83,
+				"height": 83
+			},
+			"additional": null
+		},
+		"bowlingbulb_31x31": {
+			"id": "IMAGE_PLANT_BOWLINGBULB_BOWLINGBULB_31X31",
+			"dimension": {
+				"width": 31,
+				"height": 31
+			},
+			"additional": null
+		},
+		"bowlingbulb_43x45": {
+			"id": "IMAGE_PLANT_BOWLINGBULB_BOWLINGBULB_43X45",
+			"dimension": {
+				"width": 43,
+				"height": 45
+			},
+			"additional": null
+		},
+		"bowlingbulb_38x40": {
+			"id": "IMAGE_PLANT_BOWLINGBULB_BOWLINGBULB_38X40",
+			"dimension": {
+				"width": 38,
+				"height": 40
+			},
+			"additional": null
+		},
+		"bowlingbulb_1x1": {
+			"id": "IMAGE_PLANT_BOWLINGBULB_BOWLINGBULB_1X1",
+			"dimension": {
+				"width": 1,
+				"height": 1
+			},
+			"additional": null
+		},
+		"bowlingbulb_66x88": {
+			"id": "IMAGE_PLANT_BOWLINGBULB_BOWLINGBULB_66X88",
+			"dimension": {
+				"width": 66,
+				"height": 88
+			},
+			"additional": null
+		},
+		"bowlingbulb_68x61": {
+			"id": "IMAGE_PLANT_BOWLINGBULB_BOWLINGBULB_68X61",
+			"dimension": {
+				"width": 68,
+				"height": 61
+			},
+			"additional": null
+		},
+		"bowlingbulb_63x63": {
+			"id": "IMAGE_PLANT_BOWLINGBULB_BOWLINGBULB_63X63",
+			"dimension": {
+				"width": 63,
+				"height": 63
+			},
+			"additional": null
+		},
+		"bowlingbulb_80x83": {
+			"id": "IMAGE_PLANT_BOWLINGBULB_BOWLINGBULB_80X83",
+			"dimension": {
+				"width": 80,
+				"height": 83
+			},
+			"additional": null
+		},
+		"bowlingbulb_100x93": {
+			"id": "IMAGE_PLANT_BOWLINGBULB_BOWLINGBULB_100X93",
+			"dimension": {
+				"width": 100,
+				"height": 93
+			},
+			"additional": null
+		},
+		"bowlingbulb_82x84": {
+			"id": "IMAGE_PLANT_BOWLINGBULB_BOWLINGBULB_82X84",
+			"dimension": {
+				"width": 82,
+				"height": 84
+			},
+			"additional": null
+		},
+		"bowlingbulb_134x117": {
+			"id": "IMAGE_PLANT_BOWLINGBULB_BOWLINGBULB_134X117",
+			"dimension": {
+				"width": 134,
+				"height": 117
+			},
+			"additional": null
+		},
+		"bowlingbulb_75x79": {
+			"id": "IMAGE_PLANT_BOWLINGBULB_BOWLINGBULB_75X79",
+			"dimension": {
+				"width": 75,
+				"height": 79
+			},
+			"additional": null
+		},
+		"bowlingbulb_83x85": {
+			"id": "IMAGE_PLANT_BOWLINGBULB_BOWLINGBULB_83X85",
+			"dimension": {
+				"width": 83,
+				"height": 85
+			},
+			"additional": null
+		},
+		"bowlingbulb_80x67": {
+			"id": "IMAGE_PLANT_BOWLINGBULB_BOWLINGBULB_80X67",
+			"dimension": {
+				"width": 80,
+				"height": 67
+			},
+			"additional": null
+		},
+		"bowlingbulb_80x83_2": {
+			"id": "IMAGE_PLANT_BOWLINGBULB_BOWLINGBULB_80X83_2",
+			"dimension": {
+				"width": 80,
+				"height": 83
+			},
+			"additional": null
+		},
+		"bowlingbulb_40x40": {
+			"id": "IMAGE_PLANT_BOWLINGBULB_BOWLINGBULB_40X40",
+			"dimension": {
+				"width": 40,
+				"height": 40
+			},
+			"additional": null
+		},
+		"bowlingbulb_18x39": {
+			"id": "IMAGE_PLANT_BOWLINGBULB_BOWLINGBULB_18X39",
+			"dimension": {
+				"width": 18,
+				"height": 39
+			},
+			"additional": null
+		},
+		"bowlingbulb_24x21": {
+			"id": "IMAGE_PLANT_BOWLINGBULB_BOWLINGBULB_24X21",
+			"dimension": {
+				"width": 24,
+				"height": 21
+			},
+			"additional": null
+		},
+		"bowlingbulb_24x18": {
+			"id": "IMAGE_PLANT_BOWLINGBULB_BOWLINGBULB_24X18",
+			"dimension": {
+				"width": 24,
+				"height": 18
+			},
+			"additional": null
+		},
+		"bowlingbulb_29x36": {
+			"id": "IMAGE_PLANT_BOWLINGBULB_BOWLINGBULB_29X36",
+			"dimension": {
+				"width": 29,
+				"height": 36
+			},
+			"additional": null
+		},
+		"bowlingbulb_15x31": {
+			"id": "IMAGE_PLANT_BOWLINGBULB_BOWLINGBULB_15X31",
+			"dimension": {
+				"width": 15,
+				"height": 31
+			},
+			"additional": null
+		},
+		"bowlingbulb_12x12": {
+			"id": "IMAGE_PLANT_BOWLINGBULB_BOWLINGBULB_12X12",
+			"dimension": {
+				"width": 12,
+				"height": 12
+			},
+			"additional": null
+		},
+		"bowlingbulb_18x35": {
+			"id": "IMAGE_PLANT_BOWLINGBULB_BOWLINGBULB_18X35",
+			"dimension": {
+				"width": 18,
+				"height": 35
+			},
+			"additional": null
+		},
+		"bowlingbulb_42x42": {
+			"id": "IMAGE_PLANT_BOWLINGBULB_BOWLINGBULB_42X42",
+			"dimension": {
+				"width": 42,
+				"height": 42
+			},
+			"additional": null
+		},
+		"bowlingbulb_29x23": {
+			"id": "IMAGE_PLANT_BOWLINGBULB_BOWLINGBULB_29X23",
+			"dimension": {
+				"width": 29,
+				"height": 23
+			},
+			"additional": null
+		}
+	},
+	"sprite": {}
+}

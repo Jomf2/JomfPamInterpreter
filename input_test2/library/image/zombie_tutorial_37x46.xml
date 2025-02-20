@@ -1,0 +1,21 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="image/zombie_tutorial_37x46" symbolType="graphic">
+    <timeline>
+        <DOMTimeline name="zombie_tutorial_37x46">
+            <layers>
+                <DOMLayer>
+                    <frames>
+                        <DOMFrame index="0">
+                            <elements>
+                                <DOMBitmapInstance libraryItemName="media/zombie_tutorial_37x46">
+                                    <matrix>
+                                        <Matrix a="0.781250" b="0.000000" c="0.000000" d="0.781250" tx="12.600000" ty="-11.650000"/>
+                                    </matrix>
+                                </DOMBitmapInstance>
+                            </elements>
+                        </DOMFrame>
+                    </frames>
+                </DOMLayer>
+            </layers>
+        </DOMTimeline>
+    </timeline>
+</DOMSymbolItem>
